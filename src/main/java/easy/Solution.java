@@ -10,14 +10,14 @@ import java.util.List;
 public class Solution {
 
 
-    public static void main(String[] args){
-        Solution solution = new Solution();
-//        int mas[] = solution.exchangeSumm2(10);
-//        System.out.print("= ");
-//        for (int i=0;i<mas.length;i++){
-//            System.out.print("+ " + mas[i] + " ");
-//        }
-    }
+//    public static void main(String[] args){
+//        Solution solution = new Solution();
+////        int mas[] = solution.exchangeSumm2(10);
+////        System.out.print("= ");
+////        for (int i=0;i<mas.length;i++){
+////            System.out.print("+ " + mas[i] + " ");
+////        }
+//    }
     /**
      * 1) Программа, возвращающая 2-й по величине элемент набора чисел.
      * @param mas - Входной массив
